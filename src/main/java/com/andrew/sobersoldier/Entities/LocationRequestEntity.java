@@ -5,7 +5,13 @@ import lombok.*;
 
 import java.time.LocalDateTime;
 
-
+@Entity
+@Table(name = "location_requests")
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
 public class LocationRequestEntity {
 
     @Id
