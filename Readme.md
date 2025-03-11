@@ -1,7 +1,7 @@
 Welcome to SoberSoldier, a Java RESTful API originally designed for a Flutter mobile project. However, the project has pivoted and will now serve as the backend for a web application instead. We are using Qudona for our CI/CD processes.
 
 Overview
-SoberSoldier is an ongoing project aimed at providing reliable location request functionality for users who require assistance from designated drivers. The core architecture leverages Spring Boot to handle REST endpoints, data persistence, and business logic.
+This is an ongoing project aimed at providing reliable location request functionality for users who require assistance from designated drivers. The core architecture leverages Spring Boot to handle REST endpoints, data persistence, and business logic.
 
 Key Features
 User Management
